@@ -18,7 +18,7 @@ setup(
         'mtcnn',
         'tensorflow',
         'keras',
-        'keras-vggface',
+        'keras-vggface==0.6',
         'keras_applications',
         'PyYAML',
         'tqdm',
